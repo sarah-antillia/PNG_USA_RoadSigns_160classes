@@ -1,5 +1,4 @@
-<h1>PNG_USA_RoadSigns_160classes V,\.2 (Updated:2022/05/23)</h1>
-
+<h1>PNG_USA_RoadSigns_160classes V.2 (Updated:2022/05/23)</h1>
 This is a dataset of 160classes of PNG USA RoadSigns.
 <br>
 The dataset has been taken from the following website:<br>
