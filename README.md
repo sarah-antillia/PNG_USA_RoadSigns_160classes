@@ -1,920 +1,927 @@
-<h1>PNG_USA_RoadSigns_160classes</h1>
+<h1>PNG_USA_RoadSigns_160classes (Updated:2022/05/23)</h1>
 
 This is a dataset of 160classes of PNG USA RoadSigns.
 <br>
 The dataset has been taken from the following website:<br>
 <a href="https://en.wikipedia.org/wiki/Road_signs_in_the_United_States">Road signs in the United States</a>
 <br>
-
+Removed missplaced jpg files, and added the following two files to become 160 classes in total:<br>  
+No_parking_any_time.png<br>
+No_thru_movement.png<br>
 <br>
 <a href="./PNG_USA_RoadSigns_160classes_Small">PNG_USA_RoadSigns_160classes_Small</a><br>
 <a href="./PNG_USA_RoadSigns_160classes_Medium">PNG_USA_RoadSigns_160classes_Medium</a><br>
 <br>
 
 160classes:<br>
+
 <table>
 <tr>
-<td>
-270_degree_loop
+<td wrap>
+1: 270_degree_loop
 <br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/270_degree_loop.png'>
+<img src='./PNG_USA_Roadsigns_160classes_Small/270_degree_loop.png' width='180' height='auto'>
 </td>
-<td>
-Added_lane
+<td wrap>
+2: Added_lane
 <br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/Added_lane.png'>
+<img src='./PNG_USA_Roadsigns_160classes_Small/Added_lane.png' width='180' height='auto'>
 </td>
-<td>
-Added_lane_from_entering_roadway
+<td wrap>
+3: Added_lane_from_entering_roadway
 <br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/Added_lane_from_entering_roadway.png'>
-</td>
-</tr>
-<tr>
-<td>
-All_way
-<br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/All_way.png'>
-</td>
-<td>
-Be_prepared_to_stop
-<br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/Be_prepared_to_stop.png'>
-</td>
-<td>
-Bicycles
-<br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/Bicycles.png'>
+<img src='./PNG_USA_Roadsigns_160classes_Small/Added_lane_from_entering_roadway.png' width='180' height='auto'>
 </td>
 </tr>
 <tr>
-<td>
-Bicycles_and_pedestrians
+<td wrap>
+4: All_way
 <br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/Bicycles_and_pedestrians.png'>
+<img src='./PNG_USA_Roadsigns_160classes_Small/All_way.png' width='180' height='auto'>
 </td>
-<td>
-Bicycles_left_pedestrians_right
+<td wrap>
+5: Be_prepared_to_stop
 <br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/Bicycles_left_pedestrians_right.png'>
+<img src='./PNG_USA_Roadsigns_160classes_Small/Be_prepared_to_stop.png' width='180' height='auto'>
 </td>
-<td>
-Bicycle_wrong_way
+<td wrap>
+6: Bicycles
 <br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/Bicycle_wrong_way.png'>
-</td>
-</tr>
-<tr>
-<td>
-Bike_lane
-<br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/Bike_lane.png'>
-</td>
-<td>
-Bike_lane_slippery_when_wet
-<br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/Bike_lane_slippery_when_wet.png'>
-</td>
-<td>
-Bump
-<br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/Bump.png'>
+<img src='./PNG_USA_Roadsigns_160classes_Small/Bicycles.png' width='180' height='auto'>
 </td>
 </tr>
 <tr>
-<td>
-Bus_lane
+<td wrap>
+7: Bicycles_and_pedestrians
 <br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/Bus_lane.png'>
+<img src='./PNG_USA_Roadsigns_160classes_Small/Bicycles_and_pedestrians.png' width='180' height='auto'>
 </td>
-<td>
-Center_lane
+<td wrap>
+8: Bicycles_left_pedestrians_right
 <br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/Center_lane.png'>
+<img src='./PNG_USA_Roadsigns_160classes_Small/Bicycles_left_pedestrians_right.png' width='180' height='auto'>
 </td>
-<td>
-Chevron_alignment
+<td wrap>
+9: Bicycle_wrong_way
 <br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/Chevron_alignment.png'>
-</td>
-</tr>
-<tr>
-<td>
-Circular_intersection_warning
-<br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/Circular_intersection_warning.png'>
-</td>
-<td>
-Cross_roads
-<br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/Cross_roads.png'>
-</td>
-<td>
-Curve
-<br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/Curve.png'>
+<img src='./PNG_USA_Roadsigns_160classes_Small/Bicycle_wrong_way.png' width='180' height='auto'>
 </td>
 </tr>
 <tr>
-<td>
-Dead_end
+<td wrap>
+10: Bike_lane
 <br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/Dead_end.png'>
+<img src='./PNG_USA_Roadsigns_160classes_Small/Bike_lane.png' width='180' height='auto'>
 </td>
-<td>
-Deer_crossing
+<td wrap>
+11: Bike_lane_slippery_when_wet
 <br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/Deer_crossing.png'>
+<img src='./PNG_USA_Roadsigns_160classes_Small/Bike_lane_slippery_when_wet.png' width='180' height='auto'>
 </td>
-<td>
-Detour
+<td wrap>
+12: Bump
 <br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/Detour.png'>
-</td>
-</tr>
-<tr>
-<td>
-Detour_right
-<br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/Detour_right.png'>
-</td>
-<td>
-Dip
-<br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/Dip.png'>
-</td>
-<td>
-Double_side_roads
-<br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/Double_side_roads.png'>
+<img src='./PNG_USA_Roadsigns_160classes_Small/Bump.png' width='180' height='auto'>
 </td>
 </tr>
 <tr>
-<td>
-Do_not_drive_on_tracks
+<td wrap>
+13: Bus_lane
 <br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/Do_not_drive_on_tracks.png'>
+<img src='./PNG_USA_Roadsigns_160classes_Small/Bus_lane.png' width='180' height='auto'>
 </td>
-<td>
-Do_not_enter
+<td wrap>
+14: Center_lane
 <br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/Do_not_enter.png'>
+<img src='./PNG_USA_Roadsigns_160classes_Small/Center_lane.png' width='180' height='auto'>
 </td>
-<td>
-Do_not_pass_stopped_trains
+<td wrap>
+15: Chevron_alignment
 <br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/Do_not_pass_stopped_trains.png'>
-</td>
-</tr>
-<tr>
-<td>
-Emergency_signal
-<br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/Emergency_signal.png'>
-</td>
-<td>
-End_detour
-<br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/End_detour.png'>
-</td>
-<td>
-Except_right_turn
-<br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/Except_right_turn.png'>
+<img src='./PNG_USA_Roadsigns_160classes_Small/Chevron_alignment.png' width='180' height='auto'>
 </td>
 </tr>
 <tr>
-<td>
-Fallen_rocks
+<td wrap>
+16: Circular_intersection_warning
 <br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/Fallen_rocks.png'>
+<img src='./PNG_USA_Roadsigns_160classes_Small/Circular_intersection_warning.png' width='180' height='auto'>
 </td>
-<td>
-Flagger_present
+<td wrap>
+17: Cross_roads
 <br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/Flagger_present.png'>
+<img src='./PNG_USA_Roadsigns_160classes_Small/Cross_roads.png' width='180' height='auto'>
 </td>
-<td>
-Fog_area
+<td wrap>
+18: Curve
 <br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/Fog_area.png'>
-</td>
-</tr>
-<tr>
-<td>
-Golf_cart_crossing
-<br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/Golf_cart_crossing.png'>
-</td>
-<td>
-Go_on_slow
-<br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/Go_on_slow.png'>
-</td>
-<td>
-Gusty_winds_area
-<br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/Gusty_winds_area.png'>
+<img src='./PNG_USA_Roadsigns_160classes_Small/Curve.png' width='180' height='auto'>
 </td>
 </tr>
 <tr>
-<td>
-Hairpin_curve
+<td wrap>
+19: Dead_end
 <br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/Hairpin_curve.png'>
+<img src='./PNG_USA_Roadsigns_160classes_Small/Dead_end.png' width='180' height='auto'>
 </td>
-<td>
-Hazardous_material_prohibited
+<td wrap>
+20: Deer_crossing
 <br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/Hazardous_material_prohibited.png'>
+<img src='./PNG_USA_Roadsigns_160classes_Small/Deer_crossing.png' width='180' height='auto'>
 </td>
-<td>
-Hazardous_material_route
+<td wrap>
+21: Detour
 <br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/Hazardous_material_route.png'>
-</td>
-</tr>
-<tr>
-<td>
-Hidden_driveway
-<br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/Hidden_driveway.png'>
-</td>
-<td>
-Hill_bicycle
-<br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/Hill_bicycle.png'>
-</td>
-<td>
-Horizontal_alignment_intersection
-<br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/Horizontal_alignment_intersection.png'>
+<img src='./PNG_USA_Roadsigns_160classes_Small/Detour.png' width='180' height='auto'>
 </td>
 </tr>
 <tr>
-<td>
-Horse_drawn_vehicle_ahead
+<td wrap>
+22: Detour_right
 <br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/Horse_drawn_vehicle_ahead.png'>
+<img src='./PNG_USA_Roadsigns_160classes_Small/Detour_right.png' width='180' height='auto'>
 </td>
-<td>
-Keep_left
+<td wrap>
+23: Dip
 <br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/Keep_left.png'>
+<img src='./PNG_USA_Roadsigns_160classes_Small/Dip.png' width='180' height='auto'>
 </td>
-<td>
-Keep_left_2
+<td wrap>
+24: Double_side_roads
 <br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/Keep_left_2.png'>
-</td>
-</tr>
-<tr>
-<td>
-Keep_right
-<br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/Keep_right.png'>
-</td>
-<td>
-Keep_right_2
-<br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/Keep_right_2.png'>
-</td>
-<td>
-Lane_ends
-<br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/Lane_ends.png'>
+<img src='./PNG_USA_Roadsigns_160classes_Small/Double_side_roads.png' width='180' height='auto'>
 </td>
 </tr>
 <tr>
-<td>
-Left_lane
+<td wrap>
+25: Do_not_drive_on_tracks
 <br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/Left_lane.png'>
+<img src='./PNG_USA_Roadsigns_160classes_Small/Do_not_drive_on_tracks.png' width='180' height='auto'>
 </td>
-<td>
-Left_turn_only
+<td wrap>
+26: Do_not_enter
 <br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/Left_turn_only.png'>
+<img src='./PNG_USA_Roadsigns_160classes_Small/Do_not_enter.png' width='180' height='auto'>
 </td>
-<td>
-Left_turn_or_straight
+<td wrap>
+27: Do_not_pass_stopped_trains
 <br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/Left_turn_or_straight.png'>
-</td>
-</tr>
-<tr>
-<td>
-Left_turn_yield_on_green
-<br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/Left_turn_yield_on_green.png'>
-</td>
-<td>
-Loading_zone
-<br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/Loading_zone.png'>
-</td>
-<td>
-Low_clearance
-<br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/Low_clearance.png'>
+<img src='./PNG_USA_Roadsigns_160classes_Small/Do_not_pass_stopped_trains.png' width='180' height='auto'>
 </td>
 </tr>
 <tr>
-<td>
-Low_ground_clearance_railroad_crossing
+<td wrap>
+28: Emergency_signal
 <br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/Low_ground_clearance_railroad_crossing.png'>
+<img src='./PNG_USA_Roadsigns_160classes_Small/Emergency_signal.png' width='180' height='auto'>
 </td>
-<td>
-Merge
+<td wrap>
+29: End_detour
 <br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/Merge.png'>
+<img src='./PNG_USA_Roadsigns_160classes_Small/End_detour.png' width='180' height='auto'>
 </td>
-<td>
-Merging_traffic
+<td wrap>
+30: Except_right_turn
 <br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/Merging_traffic.png'>
-</td>
-</tr>
-<tr>
-<td>
-Metric_low_clearance
-<br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/Metric_low_clearance.png'>
-</td>
-<td>
-Minimum_speed_limit_40
-<br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/Minimum_speed_limit_40.png'>
-</td>
-<td>
-Minimum_speed_limit_60km
-<br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/Minimum_speed_limit_60km.png'>
+<img src='./PNG_USA_Roadsigns_160classes_Small/Except_right_turn.png' width='180' height='auto'>
 </td>
 </tr>
 <tr>
-<td>
-Narrow_bridge.jpg
+<td wrap>
+31: Fallen_rocks
 <br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/Narrow_bridge.jpg.png'>
+<img src='./PNG_USA_Roadsigns_160classes_Small/Fallen_rocks.png' width='180' height='auto'>
 </td>
-<td>
-Narrow_bridge
+<td wrap>
+32: Flagger_present
 <br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/Narrow_bridge.png'>
+<img src='./PNG_USA_Roadsigns_160classes_Small/Flagger_present.png' width='180' height='auto'>
 </td>
-<td>
-National_network_prohibited
+<td wrap>
+33: Fog_area
 <br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/National_network_prohibited.png'>
-</td>
-</tr>
-<tr>
-<td>
-National_network_route
-<br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/National_network_route.png'>
-</td>
-<td>
-Night_speed_limit_45
-<br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/Night_speed_limit_45.png'>
-</td>
-<td>
-Night_speed_limit_70km
-<br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/Night_speed_limit_70km.png'>
+<img src='./PNG_USA_Roadsigns_160classes_Small/Fog_area.png' width='180' height='auto'>
 </td>
 </tr>
 <tr>
-<td>
-No_bicycles
+<td wrap>
+34: Golf_cart_crossing
 <br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/No_bicycles.png'>
+<img src='./PNG_USA_Roadsigns_160classes_Small/Golf_cart_crossing.png' width='180' height='auto'>
 </td>
-<td>
-No_entre
+<td wrap>
+35: Go_on_slow
 <br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/No_entre.png'>
+<img src='./PNG_USA_Roadsigns_160classes_Small/Go_on_slow.png' width='180' height='auto'>
 </td>
-<td>
-No_hitch_hiking
+<td wrap>
+36: Gusty_winds_area
 <br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/No_hitch_hiking.png'>
-</td>
-</tr>
-<tr>
-<td>
-No_horseback_riding
-<br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/No_horseback_riding.png'>
-</td>
-<td>
-No_large_trucks
-<br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/No_large_trucks.png'>
-</td>
-<td>
-No_left_or_u_turn
-<br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/No_left_or_u_turn.png'>
+<img src='./PNG_USA_Roadsigns_160classes_Small/Gusty_winds_area.png' width='180' height='auto'>
 </td>
 </tr>
 <tr>
-<td>
-No_left_turn
+<td wrap>
+37: Hairpin_curve
 <br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/No_left_turn.png'>
+<img src='./PNG_USA_Roadsigns_160classes_Small/Hairpin_curve.png' width='180' height='auto'>
 </td>
-<td>
-No_left_turn_across_tracks
+<td wrap>
+38: Hazardous_material_prohibited
 <br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/No_left_turn_across_tracks.png'>
+<img src='./PNG_USA_Roadsigns_160classes_Small/Hazardous_material_prohibited.png' width='180' height='auto'>
 </td>
-<td>
-No_outlet
+<td wrap>
+39: Hazardous_material_route
 <br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/No_outlet.png'>
-</td>
-</tr>
-<tr>
-<td>
-No_parking
-<br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/No_parking.png'>
-</td>
-<td>
-No_parking_bus_stop
-<br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/No_parking_bus_stop.png'>
-</td>
-<td>
-No_parking_from_830am_to_530pm
-<br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/No_parking_from_830am_to_530pm.png'>
+<img src='./PNG_USA_Roadsigns_160classes_Small/Hazardous_material_route.png' width='180' height='auto'>
 </td>
 </tr>
 <tr>
-<td>
-No_parking_from_830am_to_530pm_2
+<td wrap>
+40: Hidden_driveway
 <br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/No_parking_from_830am_to_530pm_2.png'>
+<img src='./PNG_USA_Roadsigns_160classes_Small/Hidden_driveway.png' width='180' height='auto'>
 </td>
-<td>
-No_parking_in_fire_lane
+<td wrap>
+41: Hill_bicycle
 <br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/No_parking_in_fire_lane.png'>
+<img src='./PNG_USA_Roadsigns_160classes_Small/Hill_bicycle.png' width='180' height='auto'>
 </td>
-<td>
-No_parking_loading_zone
+<td wrap>
+42: Horizontal_alignment_intersection
 <br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/No_parking_loading_zone.png'>
-</td>
-</tr>
-<tr>
-<td>
-No_parking_on_pavement
-<br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/No_parking_on_pavement.png'>
-</td>
-<td>
-No_pedestrians
-<br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/No_pedestrians.png'>
-</td>
-<td>
-No_pedestrian_crossing
-<br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/No_pedestrian_crossing.png'>
+<img src='./PNG_USA_Roadsigns_160classes_Small/Horizontal_alignment_intersection.png' width='180' height='auto'>
 </td>
 </tr>
 <tr>
-<td>
-No_right_turn
+<td wrap>
+43: Horse_drawn_vehicle_ahead
 <br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/No_right_turn.png'>
+<img src='./PNG_USA_Roadsigns_160classes_Small/Horse_drawn_vehicle_ahead.png' width='180' height='auto'>
 </td>
-<td>
-No_rollerblading
+<td wrap>
+44: Keep_left
 <br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/No_rollerblading.png'>
+<img src='./PNG_USA_Roadsigns_160classes_Small/Keep_left.png' width='180' height='auto'>
 </td>
-<td>
-No_standing_any_time
+<td wrap>
+45: Keep_left_2
 <br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/No_standing_any_time.png'>
-</td>
-</tr>
-<tr>
-<td>
-No_stopping_on_pavement
-<br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/No_stopping_on_pavement.png'>
-</td>
-<td>
-No_straight_through
-<br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/No_straight_through.png'>
-</td>
-<td>
-No_train_horn_warning
-<br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/No_train_horn_warning.png'>
+<img src='./PNG_USA_Roadsigns_160classes_Small/Keep_left_2.png' width='180' height='auto'>
 </td>
 </tr>
 <tr>
-<td>
-No_turns
+<td wrap>
+46: Keep_right
 <br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/No_turns.png'>
+<img src='./PNG_USA_Roadsigns_160classes_Small/Keep_right.png' width='180' height='auto'>
 </td>
-<td>
-No_unauthorized_vehicles
+<td wrap>
+47: Keep_right_2
 <br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/No_unauthorized_vehicles.png'>
+<img src='./PNG_USA_Roadsigns_160classes_Small/Keep_right_2.png' width='180' height='auto'>
 </td>
-<td>
-No_u_turn
+<td wrap>
+48: Lane_ends
 <br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/No_u_turn.png'>
-</td>
-</tr>
-<tr>
-<td>
-Offset_roads
-<br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/Offset_roads.png'>
-</td>
-<td>
-One_direction
-<br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/One_direction.png'>
-</td>
-<td>
-One_way
-<br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/One_way.png'>
+<img src='./PNG_USA_Roadsigns_160classes_Small/Lane_ends.png' width='180' height='auto'>
 </td>
 </tr>
 <tr>
-<td>
-Parking_with_time_restrictions
+<td wrap>
+49: Left_lane
 <br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/Parking_with_time_restrictions.png'>
+<img src='./PNG_USA_Roadsigns_160classes_Small/Left_lane.png' width='180' height='auto'>
 </td>
-<td>
-Pass_on_either_side
+<td wrap>
+50: Left_turn_only
 <br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/Pass_on_either_side.png'>
+<img src='./PNG_USA_Roadsigns_160classes_Small/Left_turn_only.png' width='180' height='auto'>
 </td>
-<td>
-Pass_road
+<td wrap>
+51: Left_turn_or_straight
 <br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/Pass_road.png'>
-</td>
-</tr>
-<tr>
-<td>
-Path_narrows.jpg
-<br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/Path_narrows.jpg.png'>
-</td>
-<td>
-Path_narrows
-<br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/Path_narrows.png'>
-</td>
-<td>
-Pedestrian_crossing
-<br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/Pedestrian_crossing.png'>
+<img src='./PNG_USA_Roadsigns_160classes_Small/Left_turn_or_straight.png' width='180' height='auto'>
 </td>
 </tr>
 <tr>
-<td>
-Railroad_crossing
+<td wrap>
+52: Left_turn_yield_on_green
 <br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/Railroad_crossing.png'>
+<img src='./PNG_USA_Roadsigns_160classes_Small/Left_turn_yield_on_green.png' width='180' height='auto'>
 </td>
-<td>
-Railroad_crossing_ahead
+<td wrap>
+53: Loading_zone
 <br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/Railroad_crossing_ahead.png'>
+<img src='./PNG_USA_Roadsigns_160classes_Small/Loading_zone.png' width='180' height='auto'>
 </td>
-<td>
-Railroad_intersection_warning
+<td wrap>
+54: Low_clearance
 <br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/Railroad_intersection_warning.png'>
-</td>
-</tr>
-<tr>
-<td>
-Ramp_narrows
-<br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/Ramp_narrows.png'>
-</td>
-<td>
-Reserved_parking_wheelchair
-<br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/Reserved_parking_wheelchair.png'>
-</td>
-<td>
-Reverse_curve
-<br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/Reverse_curve.png'>
+<img src='./PNG_USA_Roadsigns_160classes_Small/Low_clearance.png' width='180' height='auto'>
 </td>
 </tr>
 <tr>
-<td>
-Reverse_turn
+<td wrap>
+55: Low_ground_clearance_railroad_crossing
 <br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/Reverse_turn.png'>
+<img src='./PNG_USA_Roadsigns_160classes_Small/Low_ground_clearance_railroad_crossing.png' width='180' height='auto'>
 </td>
-<td>
-Right_lane
+<td wrap>
+56: Merge
 <br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/Right_lane.png'>
+<img src='./PNG_USA_Roadsigns_160classes_Small/Merge.png' width='180' height='auto'>
 </td>
-<td>
-Right_turn_only
+<td wrap>
+57: Merging_traffic
 <br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/Right_turn_only.png'>
-</td>
-</tr>
-<tr>
-<td>
-Right_turn_or_straight
-<br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/Right_turn_or_straight.png'>
-</td>
-<td>
-Road_closed
-<br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/Road_closed.png'>
-</td>
-<td>
-Road_closed_ahead
-<br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/Road_closed_ahead.png'>
+<img src='./PNG_USA_Roadsigns_160classes_Small/Merging_traffic.png' width='180' height='auto'>
 </td>
 </tr>
 <tr>
-<td>
-Road_narrows
+<td wrap>
+58: Metric_low_clearance
 <br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/Road_narrows.png'>
+<img src='./PNG_USA_Roadsigns_160classes_Small/Metric_low_clearance.png' width='180' height='auto'>
 </td>
-<td>
-Road_slippery_when_wet
+<td wrap>
+59: Minimum_speed_limit_40
 <br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/Road_slippery_when_wet.png'>
+<img src='./PNG_USA_Roadsigns_160classes_Small/Minimum_speed_limit_40.png' width='180' height='auto'>
 </td>
-<td>
-Rough_road
+<td wrap>
+60: Minimum_speed_limit_60km
 <br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/Rough_road.png'>
-</td>
-</tr>
-<tr>
-<td>
-Runaway_vehicles_only
-<br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/Runaway_vehicles_only.png'>
-</td>
-<td>
-School
-<br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/School.png'>
-</td>
-<td>
-School_advance
-<br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/School_advance.png'>
+<img src='./PNG_USA_Roadsigns_160classes_Small/Minimum_speed_limit_60km.png' width='180' height='auto'>
 </td>
 </tr>
 <tr>
-<td>
-School_bus_stop_ahead
+<td wrap>
+61: Narrow_bridge
 <br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/School_bus_stop_ahead.png'>
+<img src='./PNG_USA_Roadsigns_160classes_Small/Narrow_bridge.png' width='180' height='auto'>
 </td>
-<td>
-School_bus_turn_ahead
+<td wrap>
+62: National_network_prohibited
 <br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/School_bus_turn_ahead.png'>
+<img src='./PNG_USA_Roadsigns_160classes_Small/National_network_prohibited.png' width='180' height='auto'>
 </td>
-<td>
-School_speed_limit_ahead
+<td wrap>
+63: National_network_route
 <br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/School_speed_limit_ahead.png'>
-</td>
-</tr>
-<tr>
-<td>
-Sharp_turn
-<br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/Sharp_turn.png'>
-</td>
-<td>
-Side_road_at_an_acute_angle
-<br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/Side_road_at_an_acute_angle.png'>
-</td>
-<td>
-Side_road_at_a_perpendicular_angle
-<br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/Side_road_at_a_perpendicular_angle.png'>
+<img src='./PNG_USA_Roadsigns_160classes_Small/National_network_route.png' width='180' height='auto'>
 </td>
 </tr>
 <tr>
-<td>
-Single_lane_shift_left
+<td wrap>
+64: Night_speed_limit_45
 <br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/Single_lane_shift_left.png'>
+<img src='./PNG_USA_Roadsigns_160classes_Small/Night_speed_limit_45.png' width='180' height='auto'>
 </td>
-<td>
-Skewed_railroad_crossing
+<td wrap>
+65: Night_speed_limit_70km
 <br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/Skewed_railroad_crossing.png'>
+<img src='./PNG_USA_Roadsigns_160classes_Small/Night_speed_limit_70km.png' width='180' height='auto'>
 </td>
-<td>
-Snowmobile
+<td wrap>
+66: No_bicycles
 <br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/Snowmobile.png'>
-</td>
-</tr>
-<tr>
-<td>
-Speed_limit_50
-<br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/Speed_limit_50.png'>
-</td>
-<td>
-Speed_limit_80km
-<br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/Speed_limit_80km.png'>
-</td>
-<td>
-Stay_in_lane
-<br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/Stay_in_lane.png'>
+<img src='./PNG_USA_Roadsigns_160classes_Small/No_bicycles.png' width='180' height='auto'>
 </td>
 </tr>
 <tr>
-<td>
-Steep grade
+<td wrap>
+67: No_entre
 <br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/Steep grade.png'>
+<img src='./PNG_USA_Roadsigns_160classes_Small/No_entre.png' width='180' height='auto'>
 </td>
-<td>
-Steep_grade_percentage
+<td wrap>
+68: No_hitch_hiking
 <br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/Steep_grade_percentage.png'>
+<img src='./PNG_USA_Roadsigns_160classes_Small/No_hitch_hiking.png' width='180' height='auto'>
 </td>
-<td>
-Stop
+<td wrap>
+69: No_horseback_riding
 <br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/Stop.png'>
-</td>
-</tr>
-<tr>
-<td>
-Stop_here_for_pedestrians
-<br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/Stop_here_for_pedestrians.png'>
-</td>
-<td>
-Stop_here_for_peds
-<br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/Stop_here_for_peds.png'>
-</td>
-<td>
-Straight_ahead_only
-<br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/Straight_ahead_only.png'>
+<img src='./PNG_USA_Roadsigns_160classes_Small/No_horseback_riding.png' width='180' height='auto'>
 </td>
 </tr>
 <tr>
-<td>
-Tractor_farm_vehicle_crossing
+<td wrap>
+70: No_large_trucks
 <br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/Tractor_farm_vehicle_crossing.png'>
+<img src='./PNG_USA_Roadsigns_160classes_Small/No_large_trucks.png' width='180' height='auto'>
 </td>
-<td>
-Tractor_farm_vehicle_crossing_2
+<td wrap>
+71: No_left_or_u_turn
 <br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/Tractor_farm_vehicle_crossing_2.png'>
+<img src='./PNG_USA_Roadsigns_160classes_Small/No_left_or_u_turn.png' width='180' height='auto'>
 </td>
-<td>
-Truck crossing_2
+<td wrap>
+72: No_left_turn
 <br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/Truck crossing_2.png'>
-</td>
-</tr>
-<tr>
-<td>
-Truck_crossing
-<br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/Truck_crossing.png'>
-</td>
-<td>
-Truck_rollover_warning
-<br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/Truck_rollover_warning.png'>
-</td>
-<td>
-Truck_route_sign
-<br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/Truck_route_sign.png'>
+<img src='./PNG_USA_Roadsigns_160classes_Small/No_left_turn.png' width='180' height='auto'>
 </td>
 </tr>
 <tr>
-<td>
-Truck_speed_limit_40
+<td wrap>
+73: No_left_turn_across_tracks
 <br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/Truck_speed_limit_40.png'>
+<img src='./PNG_USA_Roadsigns_160classes_Small/No_left_turn_across_tracks.png' width='180' height='auto'>
 </td>
-<td>
-Turning_vehicles_yield_to_pedestrians
+<td wrap>
+74: No_outlet
 <br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/Turning_vehicles_yield_to_pedestrians.png'>
+<img src='./PNG_USA_Roadsigns_160classes_Small/No_outlet.png' width='180' height='auto'>
 </td>
-<td>
-Turn_only_lanes
+<td wrap>
+75: No_parking
 <br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/Turn_only_lanes.png'>
-</td>
-</tr>
-<tr>
-<td>
-Two_direction
-<br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/Two_direction.png'>
-</td>
-<td>
-Two_way_traffic
-<br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/Two_way_traffic.png'>
-</td>
-<td>
-T_roads
-<br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/T_roads.png'>
-</td>
-</tr>
-
-<tr>
-<td>
-Wait_on_stop
-<br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/Wait_on_stop.png'>
-</td>
-<td>
-Weight_limit_10t
-<br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/Weight_limit_10t.png'>
-</td>
-<td>
-Winding_road
-<br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/Winding_road.png'>
+<img src='./PNG_USA_Roadsigns_160classes_Small/No_parking.png' width='180' height='auto'>
 </td>
 </tr>
 <tr>
-<td>
-Workers_on_road
+<td wrap>
+76: No_parking_any_time
 <br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/Workers_on_road.png'>
+<img src='./PNG_USA_Roadsigns_160classes_Small/No_parking_any_time.png' width='180' height='auto'>
 </td>
-<td>
-Work_zone_for_speed_limit
+<td wrap>
+77: No_parking_bus_stop
 <br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/Work_zone_for_speed_limit.png'>
+<img src='./PNG_USA_Roadsigns_160classes_Small/No_parking_bus_stop.png' width='180' height='auto'>
 </td>
-<td>
-Wrong_way
+<td wrap>
+78: No_parking_from_830am_to_530pm
 <br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/Wrong_way.png'>
+<img src='./PNG_USA_Roadsigns_160classes_Small/No_parking_from_830am_to_530pm.png' width='180' height='auto'>
 </td>
 </tr>
 <tr>
-<td>
-Yield
+<td wrap>
+79: No_parking_from_830am_to_530pm_2
 <br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/Yield.png'>
+<img src='./PNG_USA_Roadsigns_160classes_Small/No_parking_from_830am_to_530pm_2.png' width='180' height='auto'>
 </td>
-<td>
-Yield_here_to_pedestrians
+<td wrap>
+80: No_parking_in_fire_lane
 <br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/Yield_here_to_pedestrians.png'>
+<img src='./PNG_USA_Roadsigns_160classes_Small/No_parking_in_fire_lane.png' width='180' height='auto'>
 </td>
-<td>
-Yield_here_to_peds
+<td wrap>
+81: No_parking_loading_zone
 <br>
-<img src='./PNG_USA_Roadsigns_160classes_Small/Yield_here_to_peds.png'>
+<img src='./PNG_USA_Roadsigns_160classes_Small/No_parking_loading_zone.png' width='180' height='auto'>
+</td>
+</tr>
+<tr>
+<td wrap>
+82: No_parking_on_pavement
+<br>
+<img src='./PNG_USA_Roadsigns_160classes_Small/No_parking_on_pavement.png' width='180' height='auto'>
+</td>
+<td wrap>
+83: No_pedestrians
+<br>
+<img src='./PNG_USA_Roadsigns_160classes_Small/No_pedestrians.png' width='180' height='auto'>
+</td>
+<td wrap>
+84: No_pedestrian_crossing
+<br>
+<img src='./PNG_USA_Roadsigns_160classes_Small/No_pedestrian_crossing.png' width='180' height='auto'>
+</td>
+</tr>
+<tr>
+<td wrap>
+85: No_right_turn
+<br>
+<img src='./PNG_USA_Roadsigns_160classes_Small/No_right_turn.png' width='180' height='auto'>
+</td>
+<td wrap>
+86: No_rollerblading
+<br>
+<img src='./PNG_USA_Roadsigns_160classes_Small/No_rollerblading.png' width='180' height='auto'>
+</td>
+<td wrap>
+87: No_standing_any_time
+<br>
+<img src='./PNG_USA_Roadsigns_160classes_Small/No_standing_any_time.png' width='180' height='auto'>
+</td>
+</tr>
+<tr>
+<td wrap>
+88: No_stopping_on_pavement
+<br>
+<img src='./PNG_USA_Roadsigns_160classes_Small/No_stopping_on_pavement.png' width='180' height='auto'>
+</td>
+<td wrap>
+89: No_straight_through
+<br>
+<img src='./PNG_USA_Roadsigns_160classes_Small/No_straight_through.png' width='180' height='auto'>
+</td>
+<td wrap>
+90: No_thru_movement
+<br>
+<img src='./PNG_USA_Roadsigns_160classes_Small/No_thru_movement.png' width='180' height='auto'>
+</td>
+</tr>
+<tr>
+<td wrap>
+91: No_train_horn_warning
+<br>
+<img src='./PNG_USA_Roadsigns_160classes_Small/No_train_horn_warning.png' width='180' height='auto'>
+</td>
+<td wrap>
+92: No_turns
+<br>
+<img src='./PNG_USA_Roadsigns_160classes_Small/No_turns.png' width='180' height='auto'>
+</td>
+<td wrap>
+93: No_unauthorized_vehicles
+<br>
+<img src='./PNG_USA_Roadsigns_160classes_Small/No_unauthorized_vehicles.png' width='180' height='auto'>
+</td>
+</tr>
+<tr>
+<td wrap>
+94: No_u_turn
+<br>
+<img src='./PNG_USA_Roadsigns_160classes_Small/No_u_turn.png' width='180' height='auto'>
+</td>
+<td wrap>
+95: Offset_roads
+<br>
+<img src='./PNG_USA_Roadsigns_160classes_Small/Offset_roads.png' width='180' height='auto'>
+</td>
+<td wrap>
+96: One_direction
+<br>
+<img src='./PNG_USA_Roadsigns_160classes_Small/One_direction.png' width='180' height='auto'>
+</td>
+</tr>
+<tr>
+<td wrap>
+97: One_way
+<br>
+<img src='./PNG_USA_Roadsigns_160classes_Small/One_way.png' width='180' height='auto'>
+</td>
+<td wrap>
+98: Parking_with_time_restrictions
+<br>
+<img src='./PNG_USA_Roadsigns_160classes_Small/Parking_with_time_restrictions.png' width='180' height='auto'>
+</td>
+<td wrap>
+99: Pass_on_either_side
+<br>
+<img src='./PNG_USA_Roadsigns_160classes_Small/Pass_on_either_side.png' width='180' height='auto'>
+</td>
+</tr>
+<tr>
+<td wrap>
+100: Pass_road
+<br>
+<img src='./PNG_USA_Roadsigns_160classes_Small/Pass_road.png' width='180' height='auto'>
+</td>
+<td wrap>
+101: Path_narrows
+<br>
+<img src='./PNG_USA_Roadsigns_160classes_Small/Path_narrows.png' width='180' height='auto'>
+</td>
+<td wrap>
+102: Pedestrian_crossing
+<br>
+<img src='./PNG_USA_Roadsigns_160classes_Small/Pedestrian_crossing.png' width='180' height='auto'>
+</td>
+</tr>
+<tr>
+<td wrap>
+103: Railroad_crossing
+<br>
+<img src='./PNG_USA_Roadsigns_160classes_Small/Railroad_crossing.png' width='180' height='auto'>
+</td>
+<td wrap>
+104: Railroad_crossing_ahead
+<br>
+<img src='./PNG_USA_Roadsigns_160classes_Small/Railroad_crossing_ahead.png' width='180' height='auto'>
+</td>
+<td wrap>
+105: Railroad_intersection_warning
+<br>
+<img src='./PNG_USA_Roadsigns_160classes_Small/Railroad_intersection_warning.png' width='180' height='auto'>
+</td>
+</tr>
+<tr>
+<td wrap>
+106: Ramp_narrows
+<br>
+<img src='./PNG_USA_Roadsigns_160classes_Small/Ramp_narrows.png' width='180' height='auto'>
+</td>
+<td wrap>
+107: Reserved_parking_wheelchair
+<br>
+<img src='./PNG_USA_Roadsigns_160classes_Small/Reserved_parking_wheelchair.png' width='180' height='auto'>
+</td>
+<td wrap>
+108: Reverse_curve
+<br>
+<img src='./PNG_USA_Roadsigns_160classes_Small/Reverse_curve.png' width='180' height='auto'>
+</td>
+</tr>
+<tr>
+<td wrap>
+109: Reverse_turn
+<br>
+<img src='./PNG_USA_Roadsigns_160classes_Small/Reverse_turn.png' width='180' height='auto'>
+</td>
+<td wrap>
+110: Right_lane
+<br>
+<img src='./PNG_USA_Roadsigns_160classes_Small/Right_lane.png' width='180' height='auto'>
+</td>
+<td wrap>
+111: Right_turn_only
+<br>
+<img src='./PNG_USA_Roadsigns_160classes_Small/Right_turn_only.png' width='180' height='auto'>
+</td>
+</tr>
+<tr>
+<td wrap>
+112: Right_turn_or_straight
+<br>
+<img src='./PNG_USA_Roadsigns_160classes_Small/Right_turn_or_straight.png' width='180' height='auto'>
+</td>
+<td wrap>
+113: Road_closed
+<br>
+<img src='./PNG_USA_Roadsigns_160classes_Small/Road_closed.png' width='180' height='auto'>
+</td>
+<td wrap>
+114: Road_closed_ahead
+<br>
+<img src='./PNG_USA_Roadsigns_160classes_Small/Road_closed_ahead.png' width='180' height='auto'>
+</td>
+</tr>
+<tr>
+<td wrap>
+115: Road_narrows
+<br>
+<img src='./PNG_USA_Roadsigns_160classes_Small/Road_narrows.png' width='180' height='auto'>
+</td>
+<td wrap>
+116: Road_slippery_when_wet
+<br>
+<img src='./PNG_USA_Roadsigns_160classes_Small/Road_slippery_when_wet.png' width='180' height='auto'>
+</td>
+<td wrap>
+117: Rough_road
+<br>
+<img src='./PNG_USA_Roadsigns_160classes_Small/Rough_road.png' width='180' height='auto'>
+</td>
+</tr>
+<tr>
+<td wrap>
+118: Runaway_vehicles_only
+<br>
+<img src='./PNG_USA_Roadsigns_160classes_Small/Runaway_vehicles_only.png' width='180' height='auto'>
+</td>
+<td wrap>
+119: School
+<br>
+<img src='./PNG_USA_Roadsigns_160classes_Small/School.png' width='180' height='auto'>
+</td>
+<td wrap>
+120: School_advance
+<br>
+<img src='./PNG_USA_Roadsigns_160classes_Small/School_advance.png' width='180' height='auto'>
+</td>
+</tr>
+<tr>
+<td wrap>
+121: School_bus_stop_ahead
+<br>
+<img src='./PNG_USA_Roadsigns_160classes_Small/School_bus_stop_ahead.png' width='180' height='auto'>
+</td>
+<td wrap>
+122: School_bus_turn_ahead
+<br>
+<img src='./PNG_USA_Roadsigns_160classes_Small/School_bus_turn_ahead.png' width='180' height='auto'>
+</td>
+<td wrap>
+123: School_speed_limit_ahead
+<br>
+<img src='./PNG_USA_Roadsigns_160classes_Small/School_speed_limit_ahead.png' width='180' height='auto'>
+</td>
+</tr>
+<tr>
+<td wrap>
+124: Sharp_turn
+<br>
+<img src='./PNG_USA_Roadsigns_160classes_Small/Sharp_turn.png' width='180' height='auto'>
+</td>
+<td wrap>
+125: Side_road_at_an_acute_angle
+<br>
+<img src='./PNG_USA_Roadsigns_160classes_Small/Side_road_at_an_acute_angle.png' width='180' height='auto'>
+</td>
+<td wrap>
+126: Side_road_at_a_perpendicular_angle
+<br>
+<img src='./PNG_USA_Roadsigns_160classes_Small/Side_road_at_a_perpendicular_angle.png' width='180' height='auto'>
+</td>
+</tr>
+<tr>
+<td wrap>
+127: Single_lane_shift_left
+<br>
+<img src='./PNG_USA_Roadsigns_160classes_Small/Single_lane_shift_left.png' width='180' height='auto'>
+</td>
+<td wrap>
+128: Skewed_railroad_crossing
+<br>
+<img src='./PNG_USA_Roadsigns_160classes_Small/Skewed_railroad_crossing.png' width='180' height='auto'>
+</td>
+<td wrap>
+129: Snowmobile
+<br>
+<img src='./PNG_USA_Roadsigns_160classes_Small/Snowmobile.png' width='180' height='auto'>
+</td>
+</tr>
+<tr>
+<td wrap>
+130: Speed_limit_50
+<br>
+<img src='./PNG_USA_Roadsigns_160classes_Small/Speed_limit_50.png' width='180' height='auto'>
+</td>
+<td wrap>
+131: Speed_limit_80km
+<br>
+<img src='./PNG_USA_Roadsigns_160classes_Small/Speed_limit_80km.png' width='180' height='auto'>
+</td>
+<td wrap>
+132: Stay_in_lane
+<br>
+<img src='./PNG_USA_Roadsigns_160classes_Small/Stay_in_lane.png' width='180' height='auto'>
+</td>
+</tr>
+<tr>
+<td wrap>
+133: Steep grade
+<br>
+<img src='./PNG_USA_Roadsigns_160classes_Small/Steep grade.png' width='180' height='auto'>
+</td>
+<td wrap>
+134: Steep_grade_percentage
+<br>
+<img src='./PNG_USA_Roadsigns_160classes_Small/Steep_grade_percentage.png' width='180' height='auto'>
+</td>
+<td wrap>
+135: Stop
+<br>
+<img src='./PNG_USA_Roadsigns_160classes_Small/Stop.png' width='180' height='auto'>
+</td>
+</tr>
+<tr>
+<td wrap>
+136: Stop_here_for_pedestrians
+<br>
+<img src='./PNG_USA_Roadsigns_160classes_Small/Stop_here_for_pedestrians.png' width='180' height='auto'>
+</td>
+<td wrap>
+137: Stop_here_for_peds
+<br>
+<img src='./PNG_USA_Roadsigns_160classes_Small/Stop_here_for_peds.png' width='180' height='auto'>
+</td>
+<td wrap>
+138: Straight_ahead_only
+<br>
+<img src='./PNG_USA_Roadsigns_160classes_Small/Straight_ahead_only.png' width='180' height='auto'>
+</td>
+</tr>
+<tr>
+<td wrap>
+139: Tractor_farm_vehicle_crossing
+<br>
+<img src='./PNG_USA_Roadsigns_160classes_Small/Tractor_farm_vehicle_crossing.png' width='180' height='auto'>
+</td>
+<td wrap>
+140: Tractor_farm_vehicle_crossing_2
+<br>
+<img src='./PNG_USA_Roadsigns_160classes_Small/Tractor_farm_vehicle_crossing_2.png' width='180' height='auto'>
+</td>
+<td wrap>
+141: Truck crossing_2
+<br>
+<img src='./PNG_USA_Roadsigns_160classes_Small/Truck crossing_2.png' width='180' height='auto'>
+</td>
+</tr>
+<tr>
+<td wrap>
+142: Truck_crossing
+<br>
+<img src='./PNG_USA_Roadsigns_160classes_Small/Truck_crossing.png' width='180' height='auto'>
+</td>
+<td wrap>
+143: Truck_rollover_warning
+<br>
+<img src='./PNG_USA_Roadsigns_160classes_Small/Truck_rollover_warning.png' width='180' height='auto'>
+</td>
+<td wrap>
+144: Truck_route_sign
+<br>
+<img src='./PNG_USA_Roadsigns_160classes_Small/Truck_route_sign.png' width='180' height='auto'>
+</td>
+</tr>
+<tr>
+<td wrap>
+145: Truck_speed_limit_40
+<br>
+<img src='./PNG_USA_Roadsigns_160classes_Small/Truck_speed_limit_40.png' width='180' height='auto'>
+</td>
+<td wrap>
+146: Turning_vehicles_yield_to_pedestrians
+<br>
+<img src='./PNG_USA_Roadsigns_160classes_Small/Turning_vehicles_yield_to_pedestrians.png' width='180' height='auto'>
+</td>
+<td wrap>
+147: Turn_only_lanes
+<br>
+<img src='./PNG_USA_Roadsigns_160classes_Small/Turn_only_lanes.png' width='180' height='auto'>
+</td>
+</tr>
+<tr>
+<td wrap>
+148: Two_direction
+<br>
+<img src='./PNG_USA_Roadsigns_160classes_Small/Two_direction.png' width='180' height='auto'>
+</td>
+<td wrap>
+149: Two_way_traffic
+<br>
+<img src='./PNG_USA_Roadsigns_160classes_Small/Two_way_traffic.png' width='180' height='auto'>
+</td>
+<td wrap>
+150: T_roads
+<br>
+<img src='./PNG_USA_Roadsigns_160classes_Small/T_roads.png' width='180' height='auto'>
+</td>
+</tr>
+<tr>
+<td wrap>
+151: Wait_on_stop
+<br>
+<img src='./PNG_USA_Roadsigns_160classes_Small/Wait_on_stop.png' width='180' height='auto'>
+</td>
+<td wrap>
+152: Weight_limit_10t
+<br>
+<img src='./PNG_USA_Roadsigns_160classes_Small/Weight_limit_10t.png' width='180' height='auto'>
+</td>
+<td wrap>
+153: Winding_road
+<br>
+<img src='./PNG_USA_Roadsigns_160classes_Small/Winding_road.png' width='180' height='auto'>
+</td>
+</tr>
+<tr>
+<td wrap>
+154: Workers_on_road
+<br>
+<img src='./PNG_USA_Roadsigns_160classes_Small/Workers_on_road.png' width='180' height='auto'>
+</td>
+<td wrap>
+155: Work_zone_for_speed_limit
+<br>
+<img src='./PNG_USA_Roadsigns_160classes_Small/Work_zone_for_speed_limit.png' width='180' height='auto'>
+</td>
+<td wrap>
+156: Wrong_way
+<br>
+<img src='./PNG_USA_Roadsigns_160classes_Small/Wrong_way.png' width='180' height='auto'>
+</td>
+</tr>
+<tr>
+<td wrap>
+157: Yield
+<br>
+<img src='./PNG_USA_Roadsigns_160classes_Small/Yield.png' width='180' height='auto'>
+</td>
+<td wrap>
+158: Yield_here_to_pedestrians
+<br>
+<img src='./PNG_USA_Roadsigns_160classes_Small/Yield_here_to_pedestrians.png' width='180' height='auto'>
+</td>
+<td wrap>
+159: Yield_here_to_peds
+<br>
+<img src='./PNG_USA_Roadsigns_160classes_Small/Yield_here_to_peds.png' width='180' height='auto'>
+</td>
+</tr>
+<tr>
+<td wrap>
+160: Y_roads
+<br>
+<img src='./PNG_USA_Roadsigns_160classes_Small/Y_roads.png' width='180' height='auto'>
 </td>
 </tr>
 </table>
-
-
