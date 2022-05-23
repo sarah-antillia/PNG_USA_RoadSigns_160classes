@@ -4,9 +4,10 @@ This is a dataset of 160classes of PNG USA RoadSigns.
 The dataset has been taken from the following website:<br>
 <a href="https://en.wikipedia.org/wiki/Road_signs_in_the_United_States">Road signs in the United States</a>
 <br>
-Removed missplaced jpg files, and added the following two files to become 160 classes in total:<br>  
+1.Removed missplaced jpg files, and added the following two files to become 160 classes in total:<br>  
 No_parking_any_time.png<br>
 No_thru_movement.png<br>
+2.Updated the order of classes in classe.txt file.
 <br>
 <a href="./PNG_USA_RoadSigns_160classes_Small">PNG_USA_RoadSigns_160classes_Small</a><br>
 <a href="./PNG_USA_RoadSigns_160classes_Medium">PNG_USA_RoadSigns_160classes_Medium</a><br>
